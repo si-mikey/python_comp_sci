@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-import sys
-
 def bin_search(lst, key, first, last):
     if first > last:
         return False
